@@ -1,1 +1,9 @@
 pocketflow>=0.0.1
+google-generativeai
+PyGithub
+python-dotenv
+rich
+pyyaml
+duckduckgo-search>=4.0.0
+requests
+beautifulsoup4

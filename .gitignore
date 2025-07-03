@@ -10,6 +10,8 @@ build/
 out/
 *.pyc
 __pycache__/
+.venv
+.history
 
 # Environment files
 .env
@@ -90,3 +92,4 @@ coverage/
 
 # Optional REPL history
 .node_repl_history 
+contents/
